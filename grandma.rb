@@ -4,7 +4,7 @@ def speak_to_grandma(speak)
   binding.pry
   if speak == speak.downcase
     "HUH?! SPEAK UP, SONNY!"
-binding.pry
+
 elsif speak == "I LOVE YOU GRANDMA!" 
     "I LOVE YOU TOO PUMPKIN!"
 
