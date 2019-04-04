@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 require 'pry'
 def speak_to_grandma(speak)
-  binding.pry
+  
   if speak != speak.upcase
     "HUH?! SPEAK UP, SONNY!"
 
