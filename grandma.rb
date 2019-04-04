@@ -6,7 +6,8 @@ def speak_to_grandma(speak)
     
   elsif speak = "I LOVE YOU GRANDMA!".upcase
     "NO, NOT SINCE 1938!"
-  elsif speak = "" 
+  elsif speak = "I LOVE YOU GRANDMA" 
+  
   end
   
 # Whatever you say to grandma, she should respond with
