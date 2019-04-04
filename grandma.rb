@@ -2,10 +2,10 @@
 
 def speak_to_grandma(speak)
   if speak.downcase
-    return "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
     
-  elsif speak = 
-    return "I LOVE YOU TOO PUMPKIN!"
+  elsif speak = "I LOVE YOU GRANDMA!
+    "I LOVE YOU TOO PUMPKIN!"
   end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
