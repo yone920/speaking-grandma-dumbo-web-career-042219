@@ -4,7 +4,7 @@ def speak_to_grandma
   me = "I LOVE YOU GRANDMA!"
   if me == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  elsif me == "I love you grandma"
+  else
     return "HUH?! SPEAK UP, SONNY!"
   end
 # Whatever you say to grandma, she should respond with
